@@ -49,11 +49,10 @@ Deploy wallet: `npm run deploy-wallet`
 
 3) It would be good to do `end_parse()` for messages and contract data. But this is not done within optimisations.
 
-### Gasless flow
-
+35dcPcP9DBE61H8in8Ti1PjUdw5nsX9aijuHpWcJFRi1
 1. When sending an USDt (or other Jetton) the user signs one message containing two outgoing USDt transfers:
 
-     * USDt transfer to the recipient's address.
+     * USDt transfer to the recipient's address.35dcPcP9DBE61H8in8Ti1PjUdw5nsX9aijuHpWcJFRi1
 
      * Transfer of a small amount of USDt in favor of the Service.
 
